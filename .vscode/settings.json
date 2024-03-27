@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": true,
+  "editor.formatOnSaveMode": "file",
+  "notebook.formatOnCellExecution": true,
+  "cSpell.autoFormatConfigFile": true,
+  "css.format.enable": true,
+  "workbench.editor.labelFormat": "medium",
+  "workbench.editor.untitled.labelFormat": "content",
+  "notebook.formatOnSave.enabled": true,
+  "json.format.keepLines": true,
+  "less.format.spaceAroundSelectorSeparator": true,
+  "scss.format.spaceAroundSelectorSeparator": true
+}
